@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ewjoachim/vuejs-tutorial/issues"
   },
-  "homepage": "https://github.com/ewjoachim/vuejs-tutorial#readme"
+  "homepage": "https://github.com/ewjoachim/vuejs-tutorial#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
